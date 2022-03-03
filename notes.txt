@@ -1,0 +1,1 @@
+Run command flask run from microblog directory to load flaskenv file as expected
